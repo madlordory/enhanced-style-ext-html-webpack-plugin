@@ -1,6 +1,6 @@
 {
   "name": "enhanced-style-ext-html-webpack-plugin",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Enhances html-webpack-plugin functionality by enabling inline styles.",
   "main": "index.js",
   "files": [
@@ -58,6 +58,10 @@
     "semistandard": "^13.0.1",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2"
+  },
+  "peerDependencies": {
+    "webpack": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0",
+    "html-webpack-plugin": "^3.0.0 || ^4.0.0"
   },
   "dependencies": {
     "clean-css": "^4.2.1",

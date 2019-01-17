@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/numical/style-ext-html-webpack-plugin.git"
+    "url": "https://github.com/madlordory/enhanced-style-ext-html-webpack-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -36,9 +36,9 @@
   "author": "Mike Evans <mike.evans@numical.com> (https://github.com/numical)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/numical/style-ext-html-webpack-plugin/issues"
+    "url": "https://github.com/madlordory/enhanced-style-ext-html-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/numical/style-ext-html-webpack-plugin",
+  "homepage": "https://github.com/madlordory/enhanced-style-ext-html-webpack-plugin",
   "devDependencies": {
     "css-loader": "^1.0.1",
     "cssnano": "^4.1.0",
